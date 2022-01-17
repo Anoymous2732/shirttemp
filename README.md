@@ -1,1 +1,17 @@
-here is the shirt temp![IMG_2691](https://user-images.githubusercontent.com/86265335/146989500-215b184e-a18c-4df2-8ce0-b099217dd661.jpeg)
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Create the Text Box  
+</Title>  
+</Head>  
+<Body>   
+Hello User! <br>   
+<form>  
+Student Name:  
+<input type="text" name="Name" size="20">  
+<br> <br>  
+Course:  
+<input type="text" name="Course" size="15">  
+</form>  
+</Body>
